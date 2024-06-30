@@ -1,0 +1,17 @@
+.d-item{
+    height: 800px;
+}
+
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+
+.btn{
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid white;
+    
+}
